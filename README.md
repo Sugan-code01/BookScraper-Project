@@ -12,7 +12,7 @@ This project demonstrates how to:
 
 ---
 
-## 🚀 Features
+##  Features
 * Scrapes multiple book entries (title, price, and stock)  
 * Handles pagination (optional)
 * Saves clean structured data into SQLite  
@@ -30,5 +30,5 @@ This project demonstrates how to:
 | **IDE (Recommended)** | VS Code or PyCharm |
 
 
-## 🗂️ Project Structure
+
 
