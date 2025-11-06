@@ -1,31 +1,32 @@
 #  Python cache and temporary files
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+* .pyc
+* .pyo
+* .pyd
 
 #  Virtual environment folder
-venv/
-env/
+* venv/
+* env/
 
 #  SQLite database file
-*.db
+* .db
 
 #  Excel or CSV output files
-*.xlsx
-*.csv
+* .xlsx
+* .csv
 
 #  IDE and editor settings
-.vscode/
-.idea/
+* .vscode/
+* .idea/
 
 #  System files
-.DS_Store
-Thumbs.db
+* .DS_Store
+* Thumbs.db
 
 #  Logs
 *.log
 
 #  Environment variables or credentials
 .env
+
 
