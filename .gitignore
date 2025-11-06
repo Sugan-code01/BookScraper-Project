@@ -24,9 +24,10 @@ __pycache__/
 * Thumbs.db
 
 #  Logs
-*.log
+* .log
 
 #  Environment variables or credentials
-.env
+* .env
+
 
 
